@@ -7,7 +7,7 @@ use PDF;
 
 class WelcomeController extends Controller
 {
-    
+
     public function index()
     {
     	return view('welcome');
@@ -15,8 +15,8 @@ class WelcomeController extends Controller
 
     public function gerarPdf()
     {
-    	$html = Request::input('html');
 
+    	$html = Request::input('html');
         $this->data['html'] = $html;
 
         $pdf = PDF::loadView('pdf', $this->data);
