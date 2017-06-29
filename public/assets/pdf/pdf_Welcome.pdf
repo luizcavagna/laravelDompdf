@@ -1,0 +1,210 @@
+%PDF-1.3
+1 0 obj
+<< /Type /Catalog
+/Outlines 2 0 R
+/Pages 3 0 R >>
+endobj
+2 0 obj
+<< /Type /Outlines /Count 0 >>
+endobj
+3 0 obj
+<< /Type /Pages
+/Kids [6 0 R
+]
+/Count 1
+/Resources <<
+/ProcSet 4 0 R
+/Font << 
+/F1 8 0 R
+/F2 9 0 R
+>>
+>>
+/MediaBox [0.000 0.000 612.000 792.000]
+ >>
+endobj
+4 0 obj
+[/PDF /Text ]
+endobj
+5 0 obj
+<<
+/Producer (dompdf <0f418c6b> + CPDF)
+/CreationDate (D:20170629032255+00'00')
+/ModDate (D:20170629032255+00'00')
+/Title (Laravel)
+>>
+endobj
+6 0 obj
+<< /Type /Page
+/MediaBox [0.000 0.000 612.000 792.000]
+/Parent 3 0 R
+/Annots [ 10 0 R 12 0 R 14 0 R 16 0 R 18 0 R 21 0 R 23 0 R ]
+/Contents 7 0 R
+>>
+endobj
+7 0 obj
+<< /Filter /FlateDecode
+/Length 255 >>
+stream
+xœ‘;OÃ@„ûüŠ-¡Yv÷Ş¥Û!ÈØ(¹(¢ˆÈ£!¹à÷sƒ•Â7»§ÓÌ·#ÍŒ‘ˆàv¶ç]ı´,—íB¿Û#œ’@yŸZ:™V¦sÍ#	:p*ıZx€‡’Á*$ˆ'€×»jßî¿÷oŸ ˆÉ;´‰`=¡7¦ó0Jºß“Y Ş¼YlŸ‹:fqÕÔ=¡Ï˜”=JD#¥»ÿ³ªl-²MÜŒr”bä0…S»q„&…^ÂDÙ¬—Å8ÃZë'0–«ø¸BØY4¤Á„È»‘Nò¯Ï—¼*ùmß\Y×r­AOF;æ?‹ª«&Ëa ŞDúÃc‰}
+endstream
+endobj
+8 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F1
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+>>
+endobj
+9 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F2
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+>>
+endobj
+10 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 11 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 68.8845 680.0229 201.9765 689.1804 ]
+>>
+endobj
+11 0 obj
+<< /Type /Action
+/S /URI
+/URI (https://laravel.com/docs)
+>>
+endobj
+12 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 13 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 205.3125 680.0229 309.1065 689.1804 ]
+>>
+endobj
+13 0 obj
+<< /Type /Action
+/S /URI
+/URI (https://laracasts.com)
+>>
+endobj
+14 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 15 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 312.4425 680.0229 381.7425 689.1804 ]
+>>
+endobj
+15 0 obj
+<< /Type /Action
+/S /URI
+/URI (https://laravel-news.com)
+>>
+endobj
+16 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 17 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 385.0785 680.0229 460.5825 689.1804 ]
+>>
+endobj
+17 0 obj
+<< /Type /Action
+/S /URI
+/URI (https://forge.laravel.com)
+>>
+endobj
+18 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 19 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 463.9185 680.0229 543.1155 689.1804 ]
+>>
+endobj
+19 0 obj
+<< /Type /Action
+/S /URI
+/URI (https://github.com/laravel/laravel)
+>>
+endobj
+20 0 obj
+[6 0 R /Fit]
+endobj
+21 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 22 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 0.0000 556.0020 0.0000 556.0020 ]
+>>
+endobj
+22 0 obj
+<< /Type /Action
+/S /URI
+/URI (http://localhost:8000/assets/pdf/pdf_Welcome.pdf)
+>>
+endobj
+23 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 24 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 265.8015 546.3783 346.1985 555.5358 ]
+>>
+endobj
+24 0 obj
+<< /Type /Action
+/S /URI
+/URI (http://localhost:8000/assets/pdf/pdf_Welcome.pdf)
+>>
+endobj
+xref
+0 25
+0000000000 65535 f 
+0000000009 00000 n 
+0000000074 00000 n 
+0000000120 00000 n 
+0000000284 00000 n 
+0000000313 00000 n 
+0000000463 00000 n 
+0000000627 00000 n 
+0000000954 00000 n 
+0000001061 00000 n 
+0000001173 00000 n 
+0000001300 00000 n 
+0000001376 00000 n 
+0000001504 00000 n 
+0000001577 00000 n 
+0000001705 00000 n 
+0000001781 00000 n 
+0000001909 00000 n 
+0000001986 00000 n 
+0000002114 00000 n 
+0000002200 00000 n 
+0000002229 00000 n 
+0000002353 00000 n 
+0000002453 00000 n 
+0000002581 00000 n 
+trailer
+<<
+/Size 25
+/Root 1 0 R
+/Info 5 0 R
+>>
+startxref
+2681
+%%EOF
