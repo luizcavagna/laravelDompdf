@@ -7,10 +7,12 @@ use PDF;
 
 class WelcomeController extends Controller
 {
+    
     public function index()
     {
     	return view('welcome');
     }
+
     public function gerarPdf()
     {
     	$html = Request::input('html');
